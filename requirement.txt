@@ -1,9 +1,0 @@
--i https://pypi.tuna.tsinghua.edu.cn/simple
-pandas
-scikit-learn
-ucimlrepo
-matplotlib
-xgboost
-numpy
-plotly 
-tqdm
